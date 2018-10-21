@@ -11,7 +11,3 @@ https://class.coursera.org/ml-005/
 - Support Vector Machines (Week 7)
 - Dimensionality Reduction (Week 8)
 - Recommender Systems (Week 9)
-
-## License
-
-MIT: http://vineetdhanawat.mit-license.org/
